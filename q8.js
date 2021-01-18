@@ -1,4 +1,4 @@
-// function question8() { 
+function question8() { 
 let limit = 5;
 for (let i = 1; 0 < limit; i++){
     let loopIndicator = 1;
@@ -17,5 +17,5 @@ for (let i = 1; 0 < limit; i++){
     }
 limit--
 }
-// } 
+} 
 
